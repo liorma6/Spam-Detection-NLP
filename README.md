@@ -6,7 +6,7 @@ The goal is to classify SMS messages as either **Spam** or **Ham** (legitimate) 
 ## 👥 Authors
 * **Lior Mashiah**
 * **Golan Katzav**
-* **Lotem Kimhi**
+* **Lotem Kimchi**
 * **Eldad Simanian**
 
 ## 🚀 Project Overview
@@ -29,4 +29,4 @@ In this project, we explored the entire Machine Learning pipeline:
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/liorma6/Spam-Detection-NLP.git](https://github.com/liorma6/Spam-Detection-NLP.git)
